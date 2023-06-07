@@ -2,7 +2,7 @@
 
 This repository contains Python and C++ codes used for simulating the results presented in the article titled
 ["The Unreasonable Effectiveness of Contact Tracing on Networks with Cliques"
-by A. K. Rizi, L. A. Keating, J.P. Gleeson, D.J. O'Sullivan, and M Kivelä. (arXiv:2304.10405).]([url](https://arxiv.org/abs/2304.10405))
+by A. K. Rizi, L. A. Keating, J.P. Gleeson, D.J. O'Sullivan, and M Kivelä. [arXiv:2304.10405](https://arxiv.org/abs/2304.10405)
 
 ## Folder Structure
 - Each folder in this repository corresponds to a specific figure in the paper.
